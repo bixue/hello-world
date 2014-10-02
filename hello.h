@@ -16,3 +16,9 @@ class Person
 		char name[100];
 		int number;
 };
+
+struct Node
+{
+	int number;
+	char str[20];
+};
