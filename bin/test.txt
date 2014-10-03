@@ -1,1 +1,3 @@
 hello, bin \n
+
+I have read it ！
